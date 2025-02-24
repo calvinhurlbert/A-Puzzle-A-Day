@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    background: blue;
+    text-align: center;
+}
+
 .button {
     background-color: #04AA6D; /* Green */
     border: none;
@@ -7,4 +13,4 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-  }
+}
